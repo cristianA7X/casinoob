@@ -35,9 +35,21 @@ const AboutScreen = () => {
         <Text className="text-texto text-base font-bold mb-2">
           Integrantes del grupo
         </Text>
-        <Text className="text-tenue text-sm">
-          • Completar con los nombres del grupo
-        </Text>
+          <Text className="text-tenue text-sm">
+            • Arispe Gabriel
+          </Text>
+          <Text className="text-tenue text-sm">
+            • López Cristian
+          </Text>
+          <Text className="text-tenue text-sm">
+            • Loza Valentina
+          </Text>
+          <Text className="text-tenue text-sm">
+            • Lucero Germán
+          </Text>
+          <Text className="text-tenue text-sm">
+            • Zárate Elías
+          </Text>
       </View>
     </View>
   );
